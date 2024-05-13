@@ -1,1 +1,1 @@
-# CeneoWebScraperJD
+# CeneoWebScraperWS
