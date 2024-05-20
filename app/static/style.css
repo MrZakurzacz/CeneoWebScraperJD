@@ -5,6 +5,9 @@
 body {
     background-color: #f9f9f9; /* Light gray background */
 }
+.alert{
+    max-width: 33%;
+}
 html, body {
     height: 100%;
     margin: 0;
@@ -15,7 +18,7 @@ html, body {
 footer{
     height: 5vh;
     padding-left:10px;
-    background: linear-gradient(to top, rgb(166, 166, 166), #f9f9f9); /* Optional: to make the footer stand out */
+    background: linear-gradient(to top, rgb(185, 185, 185), #f9f9f9); /* Optional: to make the footer stand out */
 }
 .container {
     text-align: center;
@@ -52,7 +55,7 @@ footer{
 
 
 header {
-    background: linear-gradient(to bottom, rgb(166, 166, 166), #f9f9f9);
+    background: linear-gradient(to bottom, rgb(185, 185, 185), #f9f9f9);
     color: #000000;
     text-align: center;
 }
