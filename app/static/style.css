@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #f9f9f9; /* Light gray background */
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    height: 5vh;
+    padding-left:10px;
+    background: linear-gradient(to top, rgb(166, 166, 166), #f9f9f9); /* Optional: to make the footer stand out */
+}
+.container {
+    text-align: center;
+    background-color: #fff; /* Optional: background color for the container */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.01); /* Optional: box shadow for styling */
+    border-radius: 8px; /* Optional: rounded corners */
+    background-color: #f9f9f9;
+}
+.content{
+    flex:1;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+
+.btn.btn-primary {
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    border:none
+}
+.btn.btn-primary:hover{
+    background-color: rgb(136, 136, 136);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+
+header {
+    background: linear-gradient(to bottom, rgb(166, 166, 166), #f9f9f9);
+    color: #000000;
+    text-align: center;
+}
+
+.app-section {
+    background-color: #f9f9f9;
+    padding: 50px 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f9f9f9;
+}
+
+.container.opinia {
+    width: fit-content;
+    background-color: #f9f9f9;
+}
+
+.app-info {
+    flex: 1;
+    padding: 20px;
+    
+}
+
+.app-info h2 {
+    margin-top: 0;
+}
+
+.app-info p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.learn-more-btn {
+    padding: 10px 20px;
+    background-color: rgb(215, 215, 215);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.learn-more-btn:hover {
+    background-color: rgb(166, 166, 166);
+}
+
+.app-image {
+    flex: 1;
+    text-align: center;
+}
+
+.app-image img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

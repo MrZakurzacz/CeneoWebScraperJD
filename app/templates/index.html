@@ -1,0 +1,23 @@
+ 
+<header>
+    <h1>Ceneo Web Scraper</h1>
+</header>
+{% extends "base.html" %}
+{% block content %}   
+
+<!-- New Section -->
+<section class="app-section">
+    <div class="container info-scraper">
+        <div class="app-info">
+            <h2>Discover the Best Deals with Our</h2> 
+            <h2>Ceneo Web Scraper</h2>
+            <p>Our web scraper app helps you find the best prices and deals on Ceneo.</p>
+            <p>Easily track product prices, compare offers, and save money with our intuitive and powerful scraping tool.</p>
+            <button class="btn learn-more-btn" href="{{url_for('extract')}}">Learn More</button>
+        </div>
+        <div class="app-image">
+            <img src="screenshot.png" alt="App Screenshot">
+        </div>
+    </div>
+</section>
+{% endblock content %}

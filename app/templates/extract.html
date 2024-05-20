@@ -1,0 +1,27 @@
+<header>
+    <h1>Ceneo Web Scraper</h1>
+</header>
+{% extends "base.html" %}
+{% block content %}
+    <h2>Ekstrakcja Opinii</h2>
+    <div class="container opinia">
+        <form method="POST" action="{{url_for('extract')}}">
+            <div class="row g-3 align-items-center">
+                <div class="col-auto">
+                    <label for="product_id" class="id">Product id</label>
+                </div>
+                <div class="col-auto">
+                    <input type="text" name="product_id" class="form-control" placeholder="0123456789">
+                </div>
+                <div class="col-auto">
+                    <span class="form-text">
+                        Product code must contain 5-10 numbers.
+                    </span>
+                </div>
+            </div>
+            <div>
+                <input type="submit" value="submit data">
+            </div>
+        </form>
+    </div>
+{% endblock content %}
