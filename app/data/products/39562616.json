@@ -1,0 +1,26 @@
+{
+    "product_id": "39562616",
+    "product_name": "Samsung Galaxy S5 Neo SM-G903 Czarny",
+    "opinions_count": 132,
+    "pros_count": 30,
+    "cons_count": 14,
+    "average_rating": 4.465909090909091,
+    "rating_distribution": {
+        "0.0": 0.0,
+        "0.5": 3.0,
+        "1.0": 1.0,
+        "1.5": 2.0,
+        "2.0": 1.0,
+        "2.5": 0.0,
+        "3.0": 5.0,
+        "3.5": 3.0,
+        "4.0": 19.0,
+        "4.5": 19.0,
+        "5.0": 79.0
+    },
+    "recommendation_distribution": {
+        "Polecam": 114,
+        "Nie polecam": 7,
+        "null": 11
+    }
+}
