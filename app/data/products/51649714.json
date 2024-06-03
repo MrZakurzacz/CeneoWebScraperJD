@@ -1,0 +1,27 @@
+{
+    "product_id": "51649714",
+    "product_name": "Hagi Świeca sojowa Zimowy Las 230g",
+    "opinions_count": 14,
+    "pros_count": 6,
+    "cons_count": 1,
+    "average_rating": 4.857142857142857,
+    "rating_distribution": {
+        "0.0": 0.0,
+        "0.5": 0.0,
+        "1.0": 0.0,
+        "1.5": 0.0,
+        "2.0": 0.0,
+        "2.5": 0.0,
+        "3.0": 0.0,
+        "3.5": 1.0,
+        "4.0": 0.0,
+        "4.5": 1.0,
+        "5.0": 12.0
+    },
+    "recommendation_distribution": {
+        "Polecam": 13.0,
+        "Nie polecam": NaN,
+        "null": 1.0
+    },
+    "total_opinions": 14
+}

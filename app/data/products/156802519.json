@@ -1,10 +1,10 @@
 {
     "product_id": "156802519",
     "product_name": "BlendyGo 3 Miętowy",
-    "opinions_count": 158,
-    "pros_count": 107,
+    "opinions_count": 162,
+    "pros_count": 108,
     "cons_count": 7,
-    "average_rating": 4.863924050632911,
+    "average_rating": 4.87,
     "rating_distribution": {
         "0.0": 0.0,
         "0.5": 2.0,
@@ -16,11 +16,12 @@
         "3.5": 1.0,
         "4.0": 1.0,
         "4.5": 11.0,
-        "5.0": 141.0
+        "5.0": 145.0
     },
     "recommendation_distribution": {
-        "Polecam": 153,
+        "Polecam": 157,
         "Nie polecam": 3,
         "null": 2
-    }
+    },
+    "total_opinions": 162
 }

@@ -55,9 +55,10 @@ def extract():
                     'opinions_count' : opinions.shape[0],
                     'pros_count' : int(opinions.pros.astype(bool).sum()),
                     'cons_count' : int(opinions.cons.astype(bool).sum()),
-                    'average_rating' : opinions.rating.mean(),
+                    'average_rating' : round(opinions.rating.mean(),2),
                     'rating_distribution' : opinions.rating.value_counts().reindex(np.arange(0,5.5,0.5), fill_value = 0.0).to_dict(),
                     'recommendation_distribution' : opinions.recommendation.value_counts(dropna=False).reindex(["Polecam","Nie polecam",None]).to_dict(),
+                    'total_opinions' : len(opinions)
                     }
                     if not os.path.exists("app/data"):
                         os.mkdir("app/data")
@@ -78,7 +79,8 @@ def products():
     for product_id in products_list:
         with open(f"app/data/products/{product_id}.json", "r", encoding="UTF-8") as opf:
             products.append(json.load(opf))
-    return render_template("products.html", products = products)
+    
+    return render_template("products.html", products = products, enumerate=enumerate)
 
 @app.route('/author')
 def author():
@@ -86,7 +88,41 @@ def author():
 
 @app.route('/product/<product_id>')
 def product(product_id):
-    return render_template("product.html", product_id=product_id)
+    file_path = f"app/data/opinions/{product_id}.json"
+    if os.path.exists(file_path):
+        with open(file_path, "r", encoding="UTF-8") as file:
+            opinions = json.load(file)
+            # przygotowanie opinii, żeby było łatwiej je sortować, filtrować
+            for opinion in opinions:
+                for key, value in opinion.items():
+                    if isinstance(value, str):
+                        opinion[key] = value.lower()
+                    elif value is None:
+                        opinion[key] = "0"
+            recommendation_options = set(opinion.get('recommendation') for opinion in opinions)
+            recommendation_options = [option for option in recommendation_options if option is not None]
+            recommendation_options.sort()
+    else:
+        opinions = []
+        recommendation_options = []
+
+    recommendation_option = request.args.get('recommendation_option', 'all')
+
+    # wstępne filtrowanie opini xD
+    if recommendation_option == 'polecam':
+        opinions = [opinion for opinion in opinions if opinion.get('recommendation') == 'polecam']
+    elif recommendation_option == 'nie polecam':
+        opinions = [opinion for opinion in opinions if opinion.get('recommendation') == 'nie polecam']
+    elif recommendation_option == '0':
+        opinions = [opinion for opinion in opinions if opinion.get('recommendation') == '0']
+
+    sort_by = request.args.get('sort_by', 'rating')
+    order = request.args.get('order', 'asc')
+
+    sorted_opinions = sorted(opinions, key=lambda x: x.get(sort_by, ''), reverse=(order == 'desc'))
+    total_opinions = len(sorted_opinions)
+
+    return render_template("product.html", opinions=sorted_opinions, enumerate=enumerate, total_opinions=total_opinions, list=list, product_id=product_id, sort_by=sort_by, order=order, recommendation_options=recommendation_options)
 
 @app.route('/product/download_json/<product_id>')
 def download_json(product_id):

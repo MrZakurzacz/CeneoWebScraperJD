@@ -1,0 +1,209 @@
+[
+    {
+        "opinion_id": "15350461",
+        "author": "s...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo lubię świece Hagi. Zakupiłam ten zapach na prezent dla moich najbliższych. Teściowa jest zachwycona zapachem :). Świeca długo się pali.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-12-11 19:21:39",
+        "purchase_date": "2021-11-27 17:43:46"
+    },
+    {
+        "opinion_id": "18232054",
+        "author": "k...4",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Najlepsza świeczka zimowa na świecie! Najdłużej i najintensywniej pachnie. Jest absolutnie obłędna, przenosi do lasu jak nic :)",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2023-12-21 08:28:27",
+        "purchase_date": "2023-12-14 23:04:12"
+    },
+    {
+        "opinion_id": "8874783",
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Przepiękny,delikatny zapach. Z pewnością kupię ponownie",
+        "pros": [
+            "jakość",
+            "styl"
+        ],
+        "cons": [
+            "wygląd"
+        ],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2019-01-06 18:54:19",
+        "purchase_date": "2018-12-05 15:31:00"
+    },
+    {
+        "opinion_id": "15901853",
+        "author": "Wojciech AS",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo ładny aromat, długi okres wypalania, idealna do relaksu.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-04-01 08:20:26",
+        "purchase_date": "2022-03-13 07:08:05"
+    },
+    {
+        "opinion_id": "15478931",
+        "author": "k...7",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Produkt zgodny z opisem, zapach fenomenalny. Las w mieszkaniu.",
+        "pros": [
+            "jakość",
+            "styl",
+            "wygląd"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-12-30 19:42:58",
+        "purchase_date": "2021-12-13 22:16:00"
+    },
+    {
+        "opinion_id": "13792275",
+        "author": "w...k",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo ładny zapach, długi czas palenia.",
+        "pros": [
+            "jakość",
+            "styl",
+            "wygląd"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-01-18 19:05:01",
+        "purchase_date": "2020-12-31 20:14:51"
+    },
+    {
+        "opinion_id": "13629224",
+        "author": "s...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "cudowny, nietuzinkowy, przepiękny",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-12-22 13:17:52",
+        "purchase_date": "2020-12-08 11:14:57"
+    },
+    {
+        "opinion_id": "13504700",
+        "author": "j...o",
+        "recommendation": null,
+        "rating": "3,5/5",
+        "content": "Trochę za bardzo rozmarynowy.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-12-04 11:57:34",
+        "purchase_date": "2020-11-21 21:22:45"
+    },
+    {
+        "opinion_id": "17305784",
+        "author": "b...i",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Cudowna swieca!!",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2023-03-22 21:49:57",
+        "purchase_date": "2023-03-04 20:42:16"
+    },
+    {
+        "opinion_id": "13821498",
+        "author": "m...k",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "pięknie pachnie",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-01-22 13:08:24",
+        "purchase_date": "2021-01-07 09:47:44"
+    },
+    {
+        "opinion_id": "15759858",
+        "author": "b...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "świetny zapach",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-02-28 11:34:24",
+        "purchase_date": "2022-01-27 11:06:10"
+    },
+    {
+        "opinion_id": "13321280",
+        "author": "k...7",
+        "recommendation": "Polecam",
+        "rating": "4,5/5",
+        "content": "Średni zapach",
+        "pros": [
+            "jakość",
+            "styl",
+            "wygląd"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2020-11-04 10:50:33",
+        "purchase_date": "2020-10-21 22:32:18"
+    },
+    {
+        "opinion_id": "16761849",
+        "author": "a...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Produkt super",
+        "pros": [
+            "jakość",
+            "styl",
+            "wygląd"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-11-17 22:05:32",
+        "purchase_date": "2022-10-28 11:28:08"
+    },
+    {
+        "opinion_id": "14651396",
+        "author": "b...o",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Piękny zapach",
+        "pros": [
+            "jakość",
+            "styl",
+            "wygląd"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-06-27 09:09:41",
+        "purchase_date": "2021-05-26 23:58:56"
+    }
+]

@@ -3,7 +3,29 @@
 </header>
 {% extends "base.html" %}
 {% block content %}
-
-    <h2>To jest Strona z listą produktów.</h2>
-    {{products}}
+<div class="container">
+    <div class="row">
+        {% for product in products %}
+            <div class="col-md-3 mb-3">
+                <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample{{ loop.index }}" role="button" aria-expanded="false" aria-controls="collapseExample{{ loop.index }}" style="background-color: rgb(176, 176, 176); width:300px">
+                    <strong>Product ID:</strong> {{ product.product_id }}
+                </a>
+                <div class="collapse mt-2" id="collapseExample{{ loop.index }}">
+                    <div class="card card-body">
+                        <p><strong>Product ID:</strong> <a href="{{ url_for('product', product_id=product.product_id) }}" target="_blank">{{ product.product_name }}</a></p>
+                        <p><strong>Total Opinions:</strong> {{ product.total_opinions }}</p>
+                        <p><strong>Average Rating:</strong> {{ product.average_rating }}</p>
+                        <p><strong>Pros:</strong> {{ product.pros_count }}</p>
+                        <p><strong>Cons:</strong> {{ product.cons_count }}</p>
+                        <a href="{{ url_for('download_json', product_id=product.product_id) }}" class="btn btn-secondary mt-2">Download JSON</a>
+                    </div>
+                </div>
+            </div>
+        {% else %}
+            <div class="col-12">
+                <p>No products found.</p>
+            </div>
+        {% endfor %}
+    </div>
+</div>
 {% endblock content %}

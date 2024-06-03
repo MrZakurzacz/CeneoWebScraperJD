@@ -1,0 +1,27 @@
+{
+    "product_id": "79413799",
+    "product_name": "Sadolin Impregnat Do Drewna Hybrydowy Tek 9L",
+    "opinions_count": 18,
+    "pros_count": 9,
+    "cons_count": 0,
+    "average_rating": 4.69,
+    "rating_distribution": {
+        "0.0": 0.0,
+        "0.5": 0.0,
+        "1.0": 0.0,
+        "1.5": 0.0,
+        "2.0": 0.0,
+        "2.5": 0.0,
+        "3.0": 1.0,
+        "3.5": 0.0,
+        "4.0": 2.0,
+        "4.5": 3.0,
+        "5.0": 12.0
+    },
+    "recommendation_distribution": {
+        "Polecam": 17.0,
+        "Nie polecam": NaN,
+        "null": 1.0
+    },
+    "total_opinions": 18
+}

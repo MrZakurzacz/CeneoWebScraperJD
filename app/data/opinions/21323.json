@@ -1,0 +1,106 @@
+[
+    {
+        "opinion_id": "16486436",
+        "author": "e...s",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Książka nieuszkodzona w bardzo pięknej tekturowej oprawce i cena dostępna. Przyszła na czas. Polecam. Kupuj w Taniej Książce.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-09-04 12:12:11",
+        "purchase_date": "2022-08-14 17:20:07"
+    },
+    {
+        "opinion_id": "16277894",
+        "author": "h...z",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Profesjonalne przekazanie informacji - merytoryczność!",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-07-04 08:54:22",
+        "purchase_date": "2022-06-02 16:26:48"
+    },
+    {
+        "opinion_id": "17025200",
+        "author": "a...k",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Ciekawa treść. Oprawa miękka",
+        "pros": [
+            "akcja",
+            "fabuła"
+        ],
+        "cons": [
+            "jakość wydania"
+        ],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2023-01-17 10:57:21",
+        "purchase_date": "2022-12-18 11:19:00"
+    },
+    {
+        "opinion_id": "16318483",
+        "author": "m...e",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo interesująca książka",
+        "pros": [
+            "akcja",
+            "fabuła",
+            "jakość wydania"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-07-14 20:50:30",
+        "purchase_date": "2022-06-13 20:03:31"
+    },
+    {
+        "opinion_id": "16786729",
+        "author": "b...s",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-11-24 10:05:13",
+        "purchase_date": "2022-11-03 21:16:17"
+    },
+    {
+        "opinion_id": "16703188",
+        "author": "m...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-11-02 19:35:46",
+        "purchase_date": "2022-10-08 10:11:21"
+    },
+    {
+        "opinion_id": "16348260",
+        "author": "j...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Ok",
+        "pros": [
+            "akcja",
+            "fabuła",
+            "jakość wydania"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2022-07-23 12:53:58",
+        "purchase_date": "2022-06-22 10:47:59"
+    }
+]

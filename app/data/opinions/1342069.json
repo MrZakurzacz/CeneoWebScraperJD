@@ -1,0 +1,59 @@
+[
+    {
+        "opinion_id": "14604091",
+        "author": "p...k",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "To są następne metzelery, które zakładam i innych nie potrzebuję.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2021-06-15 22:06:17",
+        "purchase_date": "2021-05-27 17:00:23"
+    },
+    {
+        "opinion_id": "7224945",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "rating": "5/5",
+        "content": "5,0/5",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2019-11-26 00:00:00",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "5286719",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "rating": "4,5/5",
+        "content": "4,5/5",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2019-06-07 00:00:00",
+        "purchase_date": null
+    },
+    {
+        "opinion_id": "2810756",
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Nie polecam",
+        "rating": "2,5/5",
+        "content": "Oponę oceniłbym bardzo wysoko, ale niestety ma jedną wadę...\r\nOd samego początku strasznie buczy przy jeździe na wprost z prędkością od 60-90 km/h i znów od 140 wzwyż. \r\nNiestety zabiera mi to całą przyjemność z jazdy : (  \r\n Motocykl bmw 1200 gs. Przednia opona jest bez zastrzeżeń.\r\nPróbowałem tą oponę reklamować w Pirelli Polska(przedstawiciel Metzelera na Polskę), niestety nikt nie raczył nawet odpisać na 2 maile czy to normalne zachowanie i czy opona jest bezpieczna :(",
+        "pros": [
+            "przyczepność",
+            "wytrzymałość"
+        ],
+        "cons": [
+            "głośność"
+        ],
+        "useful": "4",
+        "useless": "1",
+        "publish_date": "2014-11-14 19:23:36",
+        "purchase_date": null
+    }
+]

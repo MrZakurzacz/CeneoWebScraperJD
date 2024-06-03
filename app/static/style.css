@@ -16,9 +16,9 @@ html, body {
     flex-direction: column;
 }
 footer{
-    height: 5vh;
     padding-left:10px;
     background: linear-gradient(to top, rgb(185, 185, 185), #f9f9f9); /* Optional: to make the footer stand out */
+    flex-shrink: 0;
 }
 .container {
     text-align: center;
@@ -27,6 +27,10 @@ footer{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.01); /* Optional: box shadow for styling */
     border-radius: 8px; /* Optional: rounded corners */
     background-color: #f9f9f9;
+    padding-right: none;
+    padding-left: none;
+    margin-right: none;
+    margin-left: none;
 }
 .content{
     flex:1;

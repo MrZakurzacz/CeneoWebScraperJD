@@ -1,0 +1,26 @@
+{
+    "product_id": "21323",
+    "product_name": "Pierwszy rok wojny. Zmierzch świata, jaki znamy",
+    "opinions_count": 7,
+    "pros_count": 3,
+    "cons_count": 1,
+    "average_rating": 5.0,
+    "rating_distribution": {
+        "0.0": 0.0,
+        "0.5": 0.0,
+        "1.0": 0.0,
+        "1.5": 0.0,
+        "2.0": 0.0,
+        "2.5": 0.0,
+        "3.0": 0.0,
+        "3.5": 0.0,
+        "4.0": 0.0,
+        "4.5": 0.0,
+        "5.0": 7.0
+    },
+    "recommendation_distribution": {
+        "Polecam": 7.0,
+        "Nie polecam": NaN,
+        "null": NaN
+    }
+}

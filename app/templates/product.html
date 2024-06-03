@@ -1,8 +1,55 @@
 <header>
     <h1>Ceneo Web Scraper</h1>
 </header>
-
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 {% extends "base.html" %}
 {% block content %}
-    <h2>To jest Strona z opiniami o produkcie {{product_id}}.</h2>
+    <h2>Opinions about product {{ product_id }}</h2>
+    <p>Total Opinions: {{ total_opinions }}</p>
+    <div>
+        <a href="{{ url_for('product', product_id=product_id, recommendation_option='all') }}" class="btn btn-secondary">All</a>
+        {% for item in recommendation_options %}
+        <a href="{{ url_for('product', product_id=product_id, recommendation_option=item) }}" class="btn btn-secondary">{{item}}</a>
+        {% endfor %}
+    </div>
+    <div class="table-responsive" style="padding-left: 3%; padding-right: 3%;">
+        <table class="table table-group-divider table-light table-striped table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    {% for key in opinions[0].keys() %}
+                    <th scope="col"><a href="{{ url_for('product', product_id=product_id, sort_by=key, order='asc' if sort_by != key or order == 'desc' else 'desc') }}">{{ key }}</a></th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+            {% for index, opinion in enumerate(opinions) %}
+            <tr>
+                <th scope="row">{{ index + 1 }}</th>
+                {% for key in opinion.keys() %}
+                    {% if key == "pros" or key == "cons" %}
+                    <td>
+                        <table>
+                            <tbody>
+                                {% for item in opinion[key] %}
+                                <tr>
+                                    <td>{{ item }}</td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </td>
+                    {% else %}
+                    <td>{{ opinion[key] }}</td>
+                    {% endif %}
+                {% endfor %}
+            </tr>
+            {% endfor %}
+            {% if total_opinions == 0 %}
+            <div class="col-12">
+                <li>No opinions found for this product.</li>
+            </div>
+            {% endif %}
+            </tbody>
+        </table>
 {% endblock content %}

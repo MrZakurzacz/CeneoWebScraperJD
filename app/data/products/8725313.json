@@ -1,0 +1,27 @@
+{
+    "product_id": "8725313",
+    "product_name": "Vergnano Antica Bottega kawa ziarnista 1kg",
+    "opinions_count": 414,
+    "pros_count": 123,
+    "cons_count": 10,
+    "average_rating": 4.849033816425121,
+    "rating_distribution": {
+        "0.0": 0.0,
+        "0.5": 0.0,
+        "1.0": 0.0,
+        "1.5": 0.0,
+        "2.0": 2.0,
+        "2.5": 0.0,
+        "3.0": 2.0,
+        "3.5": 2.0,
+        "4.0": 22.0,
+        "4.5": 55.0,
+        "5.0": 331.0
+    },
+    "recommendation_distribution": {
+        "Polecam": 363,
+        "Nie polecam": 2,
+        "null": 49
+    },
+    "total_opinions": 414
+}
