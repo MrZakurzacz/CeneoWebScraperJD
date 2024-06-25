@@ -1,0 +1,11 @@
+<header>
+    <h1>Ceneo Web Scraper</h1>
+</header>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Rating Distribution</h2>
+<img src="{{ url_for('get_chart', filename=product_id + '_rating_distribution.png') }}" alt="Rating Distribution Chart">
+<img src="{{ url_for('get_chart', filename=product_id + '_recommendation_distribution.png') }}" alt="Recommendation Distribution Chart"> 
+{% endblock content %}

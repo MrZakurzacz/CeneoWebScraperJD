@@ -17,7 +17,11 @@
                         <p><strong>Average Rating:</strong> {{ product.average_rating }}</p>
                         <p><strong>Pros:</strong> {{ product.pros_count }}</p>
                         <p><strong>Cons:</strong> {{ product.cons_count }}</p>
+                        
                         <a href="{{ url_for('download_json', product_id=product.product_id) }}" class="btn btn-secondary mt-2">Download JSON</a>
+                        <a href="{{ url_for('download_csv', product_id=product.product_id) }}" class="btn btn-secondary mt-2">Download CSV</a>
+                        <a href="{{ url_for('download_xlsx', product_id=product.product_id) }}" class="btn btn-secondary mt-2">Download XLSX</a>
+                        <a href="{{ url_for('graphs', product_id=product.product_id) }}" class="btn btn-secondary mt-2">Look at this graph</a>
                     </div>
                 </div>
             </div>

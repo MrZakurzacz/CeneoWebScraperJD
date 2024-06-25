@@ -8,7 +8,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from matplotlib import pyplot as plt
-from flask import render_template, request, redirect, url_for, send_file
+from flask import render_template, request, redirect, url_for, send_file, send_from_directory
 
 @app.route('/')
 def index():
@@ -137,3 +137,42 @@ def download_csv(product_id):
 @app.route('/product/download_xlsx/<product_id>')
 def download_xlsx(product_id):
     pass
+
+@app.route('/graphs/<product_id>')
+def graphs(product_id):
+    opinions = pd.read_json(f"app/data/opinions/{product_id}.json")
+    opinions_df = pd.DataFrame(opinions)
+    opinions_df.rating = opinions_df.rating.apply(lambda rate: rate.split("/")[0].replace(",", ".")).astype(float)
+    rating_distribution = opinions_df.rating.value_counts().reindex(np.arange(0, 5.5, 0.5), fill_value=0.0)
+    fig, ax = plt.subplots()
+    rating_distribution.plot.bar(color="hotpink", ax=ax)
+    plt.xticks(rotation=0)
+    plt.xlabel("Liczba gwiazdek")
+    plt.ylabel("Liczba opinii")
+    plt.title("Histogram częstości ocen w opiniach")
+    ax.bar_label(ax.containers[0], label_type="edge", fmt=lambda x: int(x) if x > 0 else "")
+    chart_path = f"app/data/charts/{product_id}_rating_distribution.png"
+    if not os.path.exists("app/data"):
+        os.mkdir("app/data")
+    if not os.path.exists("app/data/charts"):
+        os.mkdir("app/data/charts")
+    fig.savefig(chart_path)
+    plt.close(fig)
+    recommendation_distribution = opinions_df.recommendation.value_counts(dropna=False).reindex(["Polecam", "Nie polecam", None], fill_value=0)
+    fig, ax = plt.subplots()
+    recommendation_distribution.plot.pie(
+        ax=ax,
+        label="",
+        colors=["seagreen", "palevioletred", "thistle"],
+        labels=["Polecam", "Nie polecam", "Nie mam zdania"],
+        autopct='%1.1f%%'
+    )
+    plt.title("Histogram udziału rekomendacji w opiniach")
+    pie_chart_path = f"app/data/charts/{product_id}_recommendation_distribution.png"
+    fig.savefig(pie_chart_path)
+    plt.close(fig)
+    return render_template("graphs.html", enumerate=enumerate, chart_path=chart_path, product_id=product_id)
+
+@app.route('/charts/<filename>')
+def get_chart(filename):
+    return send_from_directory('data/charts', filename)

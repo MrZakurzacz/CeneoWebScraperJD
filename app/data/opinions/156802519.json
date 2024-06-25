@@ -23,6 +23,24 @@
         "purchase_date": "2024-02-03 10:38:15"
     },
     {
+        "opinion_id": "18716523",
+        "author": "g...d",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Kupiłam cały zestaw (z przenośnym termicznym pokrowcem i książką). Wszystkie składniki ładnie wykonane i profesjonalnie opakowane. Blender działa jak powinien i spełnia moje oczekiwania \"mobilności\", szczególnie ze względu na własną baterię i uniwersalne ładowanie:-). Zabieram go do pracy i w podróż. Polecam! :-)",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-07 10:58:13",
+        "purchase_date": "2024-05-23 08:28:48"
+    },
+    {
         "opinion_id": "18537596",
         "author": "kasiulek",
         "recommendation": "Polecam",
@@ -601,6 +619,28 @@
         "purchase_date": "2024-02-04 12:37:58"
     },
     {
+        "opinion_id": "18387559",
+        "author": "w...a",
+        "recommendation": "Nie polecam",
+        "rating": "0,5/5",
+        "content": "W żadnej definicji słowa blender nie pasuje blendygo. Wyłącza się, blokuje na miękkich bananach. Najprostrze koktajle z nim to przynajmniej 15 min użerania się że sprzętem żeby się ponownie włączył. Ostrza nie blokują mu się tylko na czystym mleku z białkiem. Shaker? Tak. Blender? Absolutnie nie",
+        "pros": [
+            "łatwo się myje",
+            "szybka wysyłka"
+        ],
+        "cons": [
+            "blenduje mrożonki",
+            "duża moc",
+            "pojemność",
+            "solidne wykonanie",
+            "wygoda używania"
+        ],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-02-11 10:24:48",
+        "purchase_date": "2023-12-05 15:20:39"
+    },
+    {
         "opinion_id": "18502490",
         "author": "j...a",
         "recommendation": "Polecam",
@@ -631,28 +671,6 @@
         "useless": "0",
         "publish_date": "2024-03-19 07:50:31",
         "purchase_date": "2024-03-09 10:48:50"
-    },
-    {
-        "opinion_id": "18387559",
-        "author": "w...a",
-        "recommendation": "Nie polecam",
-        "rating": "0,5/5",
-        "content": "W żadnej definicji słowa blender nie pasuje blendygo. Wyłącza się, blokuje na miękkich bananach. Najprostrze koktajle z nim to przynajmniej 15 min użerania się że sprzętem żeby się ponownie włączył. Ostrza nie blokują mu się tylko na czystym mleku z białkiem. Shaker? Tak. Blender? Absolutnie nie",
-        "pros": [
-            "łatwo się myje",
-            "szybka wysyłka"
-        ],
-        "cons": [
-            "blenduje mrożonki",
-            "duża moc",
-            "pojemność",
-            "solidne wykonanie",
-            "wygoda używania"
-        ],
-        "useful": "0",
-        "useless": "0",
-        "publish_date": "2024-02-11 10:24:48",
-        "purchase_date": "2023-12-05 15:20:39"
     },
     {
         "opinion_id": "18497153",
@@ -729,6 +747,19 @@
         "useless": "0",
         "publish_date": "2023-11-02 10:00:21",
         "purchase_date": "2023-10-17 15:34:31"
+    },
+    {
+        "opinion_id": "18709241",
+        "author": "k...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo fajny produkt:) mały, poręczny można go ze sobą wszędzie zabrać . Prosta obsługa . Robi pyszne koktajle . Ładnie wykonany i piękny ma kolor:)\nPolecam :)",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-05 09:07:24",
+        "purchase_date": "2024-05-26 17:39:28"
     },
     {
         "opinion_id": "18005340",
@@ -811,6 +842,30 @@
         "purchase_date": "2024-01-28 14:58:09"
     },
     {
+        "opinion_id": "18691576",
+        "author": "Malgorzata",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "BlendyGo miętowy jest piękny :) \ndziewięcioletni wnuczek otrzymał go na Dzień Dziecka, natychmiast zrobił sobie koktajl oreo, jest zachwycony :)",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "elegancki wygląd",
+            "ładny design",
+            "łatwo się myje",
+            "można pić z blendera",
+            "poręczny",
+            "szybka wysyłka",
+            "wygoda używania",
+            "wygodne czyszczenie"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-01 10:48:09",
+        "purchase_date": "2024-05-24 02:39:15"
+    },
+    {
         "opinion_id": "18546974",
         "author": "krasnal123",
         "recommendation": "Polecam",
@@ -871,6 +926,19 @@
         "purchase_date": "2023-10-17 10:56:41"
     },
     {
+        "opinion_id": "18701900",
+        "author": "j...g",
+        "recommendation": "Polecam",
+        "rating": "4/5",
+        "content": "Trzeba długo miksować twardsze owoce, nawet truskawki, winogrona by uzyskać aksamitną konsystencję. Obawiam się jak będzie miksować warzywa.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-03 13:04:08",
+        "purchase_date": "2024-05-22 20:46:06"
+    },
+    {
         "opinion_id": "18240476",
         "author": "Anna",
         "recommendation": "Polecam",
@@ -882,6 +950,24 @@
         "useless": "0",
         "publish_date": "2023-12-23 22:29:52",
         "purchase_date": "2023-12-15 12:12:00"
+    },
+    {
+        "opinion_id": "18712341",
+        "author": "emilia2024",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Jestem bardzo zadowolona z zakupu. W końcu nie muszę się zastanawiać co zjeść w ciągu dnia. Łatwy w obsłudze samoczyszczący. Polecam.",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-06 08:01:23",
+        "purchase_date": "2024-05-27 19:21:09"
     },
     {
         "opinion_id": "18682059",
@@ -1115,6 +1201,24 @@
         "purchase_date": "2023-09-24 07:57:28"
     },
     {
+        "opinion_id": "18706920",
+        "author": "m...y",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Miętowy najładniejszy😁. Solidne wykonanie, bezpieczny, łatwa obsługa. Pokrywka z uchwytem, rewelacja. Polecam wszystkim",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-04 15:31:44",
+        "purchase_date": "2024-05-11 20:37:50"
+    },
+    {
         "opinion_id": "18218275",
         "author": "s...z",
         "recommendation": "Polecam",
@@ -1148,6 +1252,24 @@
         "useless": "0",
         "publish_date": "2023-11-27 13:19:28",
         "purchase_date": "2023-11-02 21:03:56"
+    },
+    {
+        "opinion_id": "18706692",
+        "author": "v...y",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Główny atut to mobilność. \nZa te same pieniądze można kupić sporo mocniejszy i większej blender stacjonarny.",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-04 14:07:08",
+        "purchase_date": "2024-05-19 13:02:20"
     },
     {
         "opinion_id": "18539787",
@@ -1247,6 +1369,64 @@
         "purchase_date": "2024-01-21 11:59:37"
     },
     {
+        "opinion_id": "18688757",
+        "author": "g...1",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bezpieczny,bezprzewodowy,elegancki wygląd, duża moc,cichy,łatwy do umycia,pojemny,solidnie wykonany",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "blenduje mrożonki",
+            "cichy",
+            "duża moc",
+            "elegancki wygląd",
+            "lekki",
+            "ładny design",
+            "łatwe ładowanie",
+            "łatwo się myje",
+            "można pić z blendera",
+            "pojemność",
+            "poręczny",
+            "solidne wykonanie",
+            "szybka wysyłka",
+            "wiele użyć",
+            "wygoda używania",
+            "wygodne czyszczenie"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-05-31 10:43:59",
+        "purchase_date": "2024-05-21 17:04:49"
+    },
+    {
+        "opinion_id": "18724733",
+        "author": "b...2",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "doskonały blender, cichutki, poręczny, wspaniale blenduje, poręczny i łatwy w użyciu, polecam !!!!",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "elegancki wygląd",
+            "lekki",
+            "ładny design",
+            "łatwe ładowanie",
+            "łatwo się myje",
+            "można pić z blendera",
+            "poręczny",
+            "szybka wysyłka",
+            "wiele użyć",
+            "wygoda używania"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-11 10:38:54",
+        "purchase_date": "2024-05-21 22:02:05"
+    },
+    {
         "opinion_id": "18396694",
         "author": "a...g",
         "recommendation": "Polecam",
@@ -1278,6 +1458,19 @@
         "purchase_date": "2023-11-25 13:05:19"
     },
     {
+        "opinion_id": "18686074",
+        "author": "Karolina",
+        "recommendation": "Polecam",
+        "rating": "4,5/5",
+        "content": "Posiadam starszą oraz nowszą wersje, nowsza jest lepsza. Dokładnie blenduje owoce i warzywa.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-05-30 09:11:44",
+        "purchase_date": "2024-05-27 21:24:28"
+    },
+    {
         "opinion_id": "18166295",
         "author": "m...i",
         "recommendation": "Polecam",
@@ -1289,6 +1482,41 @@
         "useless": "0",
         "publish_date": "2023-12-03 17:33:33",
         "purchase_date": "2023-11-03 11:04:36"
+    },
+    {
+        "opinion_id": "18704782",
+        "author": "a...n",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Jakość wykonania bardzo dobra. Dobrze miksuje. Ładny design. Łatwy w utrzymaniu czystości.",
+        "pros": [
+            "bateria",
+            "bezpieczny",
+            "bezprzewodowy",
+            "blenduje mrożonki",
+            "cichy",
+            "duża moc",
+            "elegancki wygląd",
+            "kruszy lód",
+            "lekki",
+            "ładny design",
+            "łatwe ładowanie",
+            "łatwo się myje",
+            "można pić z blendera",
+            "na ten moment brak",
+            "pojemność",
+            "poręczny",
+            "solidne wykonanie",
+            "szybka wysyłka",
+            "wiele użyć",
+            "wygoda używania",
+            "wygodne czyszczenie"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-04 08:12:47",
+        "purchase_date": "2024-05-17 07:47:21"
     },
     {
         "opinion_id": "18666284",
@@ -1480,6 +1708,37 @@
         "purchase_date": "2023-11-14 23:24:07"
     },
     {
+        "opinion_id": "18724171",
+        "author": "k...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Kocham go za wszystko kolor funkcjonalność i przyrządzanie koktaili",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-11 09:12:51",
+        "purchase_date": "2024-05-19 16:35:09"
+    },
+    {
+        "opinion_id": "18699537",
+        "author": "i...0",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Jestem bardzo zadowolona z użytkowania oraz z wyglądu urządzenia",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-03 08:26:03",
+        "purchase_date": "2024-05-22 18:55:31"
+    },
+    {
         "opinion_id": "18193159",
         "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
@@ -1496,6 +1755,22 @@
         "useless": "0",
         "publish_date": "2023-12-10 17:22:34",
         "purchase_date": "2023-11-24 11:18:05"
+    },
+    {
+        "opinion_id": "18689069",
+        "author": "b...4",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Ładny design, od razu się wrzucił w oczy i musiałam zamówić :)",
+        "pros": [
+            "ładny design",
+            "szybka wysyłka"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-05-31 12:39:54",
+        "purchase_date": "2024-05-08 23:09:29"
     },
     {
         "opinion_id": "18563955",
@@ -1518,6 +1793,19 @@
         "useless": "0",
         "publish_date": "2024-04-10 18:05:02",
         "purchase_date": "2024-03-30 12:16:37"
+    },
+    {
+        "opinion_id": "18712168",
+        "author": "k...i",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Spełnia wszystkie moje oczekiwania. Jestem mega zadowolony.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-06 07:37:38",
+        "purchase_date": "2024-05-27 23:19:00"
     },
     {
         "opinion_id": "18499994",
@@ -1555,6 +1843,24 @@
         "purchase_date": "2024-05-09 15:40:25"
     },
     {
+        "opinion_id": "18717857",
+        "author": "A...y",
+        "recommendation": null,
+        "rating": "3/5",
+        "content": "Wszystko super. Jedyny problem jest taki, że blender ma dwie gumy zabezpieczające, które bardzo szybko się zużywają i rozciągają przez co blender przecieka",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-07 21:06:03",
+        "purchase_date": "2023-12-16 14:24:24"
+    },
+    {
         "opinion_id": "18668925",
         "author": "Użytkownik Ceneo",
         "recommendation": "Polecam",
@@ -1571,6 +1877,19 @@
         "useless": "0",
         "publish_date": "2024-05-22 21:11:07",
         "purchase_date": "2024-05-11 16:31:46"
+    },
+    {
+        "opinion_id": "18686010",
+        "author": "i...x",
+        "recommendation": "Polecam",
+        "rating": "4/5",
+        "content": "Mógłby być szczelny od spodu, taka butelka   na wynos.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-05-30 08:50:32",
+        "purchase_date": "2024-05-14 13:40:34"
     },
     {
         "opinion_id": "18659327",
@@ -1651,6 +1970,19 @@
         "purchase_date": "2024-01-03 20:34:24"
     },
     {
+        "opinion_id": "18738372",
+        "author": "k...z",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "zgodny z opisem, jak na razie działa bez zarzutu ;)",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-17 07:26:07",
+        "purchase_date": "2024-05-28 12:10:30"
+    },
+    {
         "opinion_id": "17986768",
         "author": "a...p",
         "recommendation": "Polecam",
@@ -1662,6 +1994,19 @@
         "useless": "0",
         "publish_date": "2023-10-10 17:55:01",
         "purchase_date": "2023-09-30 11:28:07"
+    },
+    {
+        "opinion_id": "18715047",
+        "author": "d...k",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Solidnie wykonany bardzo dobra jakość materiałów",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-07 07:22:15",
+        "purchase_date": "2024-05-24 10:58:14"
     },
     {
         "opinion_id": "18637203",
@@ -1715,6 +2060,19 @@
         "useless": "0",
         "publish_date": "2023-12-28 12:49:19",
         "purchase_date": "2023-12-06 10:23:58"
+    },
+    {
+        "opinion_id": "18720550",
+        "author": "m...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Najlepszy sprzęt jaki kiedykolwiek miałam ❤️🩷",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-10 08:48:21",
+        "purchase_date": "2024-05-29 10:46:50"
     },
     {
         "opinion_id": "18418039",
@@ -1887,6 +2245,29 @@
         "purchase_date": "2023-10-18 16:12:10"
     },
     {
+        "opinion_id": "18723600",
+        "author": "monikabrzostek",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Wszystko bardzo staranne dopracowane",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "elegancki wygląd",
+            "ładny design",
+            "łatwe ładowanie",
+            "łatwo się myje",
+            "poręczny",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-11 08:19:05",
+        "purchase_date": "2024-05-21 16:27:15"
+    },
+    {
         "opinion_id": "18517514",
         "author": "g...a",
         "recommendation": "Polecam",
@@ -1983,6 +2364,50 @@
         "purchase_date": "2024-02-17 17:36:16"
     },
     {
+        "opinion_id": "18710290",
+        "author": "w...a",
+        "recommendation": "Polecam",
+        "rating": "4,5/5",
+        "content": "Odkrycie XXI wieku! Najlepszy :)",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-05 12:23:20",
+        "purchase_date": "2024-05-20 11:57:19"
+    },
+    {
+        "opinion_id": "18758008",
+        "author": "a...s",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "super produkt podręczny do pracy",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "ładny design",
+            "szybka wysyłka"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-24 11:00:30",
+        "purchase_date": "2024-04-26 09:23:45"
+    },
+    {
+        "opinion_id": "18718388",
+        "author": "g...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo dobra jakość wykonania!",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-08 11:38:46",
+        "purchase_date": "2024-05-09 14:11:11"
+    },
+    {
         "opinion_id": "18607714",
         "author": "emilawiluk",
         "recommendation": "Polecam",
@@ -2014,6 +2439,19 @@
         "purchase_date": "2024-01-08 21:03:09"
     },
     {
+        "opinion_id": "18754649",
+        "author": "g...u",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Piękny, efektywny i efektowny",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-21 19:03:33",
+        "purchase_date": "2024-05-21 16:49:31"
+    },
+    {
         "opinion_id": "18393936",
         "author": "k...p",
         "recommendation": "Polecam",
@@ -2043,6 +2481,42 @@
         "useless": "0",
         "publish_date": "2023-11-17 19:40:16",
         "purchase_date": "2023-10-26 23:53:54"
+    },
+    {
+        "opinion_id": "18708355",
+        "author": "j...0",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Porządnie.. extra wykonanie",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-05 07:48:41",
+        "purchase_date": "2024-05-25 08:51:49"
+    },
+    {
+        "opinion_id": "18702437",
+        "author": "b...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Najwyższa jakość produktu!",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-03 15:23:59",
+        "purchase_date": "2024-05-22 14:00:23"
     },
     {
         "opinion_id": "18650369",
@@ -2209,6 +2683,24 @@
         "purchase_date": "2023-12-15 15:25:49"
     },
     {
+        "opinion_id": "18707093",
+        "author": "a...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Jest rewelacyjny",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-04 16:46:35",
+        "purchase_date": "2024-05-17 19:02:30"
+    },
+    {
         "opinion_id": "18681122",
         "author": "k...2",
         "recommendation": "Polecam",
@@ -2263,6 +2755,24 @@
         "useless": "0",
         "publish_date": "2023-12-27 12:17:56",
         "purchase_date": "2023-12-05 13:38:10"
+    },
+    {
+        "opinion_id": "18746372",
+        "author": "e...2",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Bardzo przydatny",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "ładny design",
+            "szybka wysyłka"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-19 09:49:40",
+        "purchase_date": "2024-05-24 10:29:11"
     },
     {
         "opinion_id": "18592943",
@@ -2447,6 +2957,19 @@
         "purchase_date": "2023-10-02 10:09:00"
     },
     {
+        "opinion_id": "18746330",
+        "author": "e...3",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Rewelacja!",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-19 09:43:55",
+        "purchase_date": "2024-05-26 13:43:37"
+    },
+    {
         "opinion_id": "18152563",
         "author": "m...a",
         "recommendation": "Polecam",
@@ -2463,6 +2986,19 @@
         "useless": "0",
         "publish_date": "2023-11-29 15:13:32",
         "purchase_date": "2023-11-06 19:18:35"
+    },
+    {
+        "opinion_id": "18713178",
+        "author": "a...l",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "SUPER, 👌",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-06 10:07:07",
+        "purchase_date": "2024-05-10 09:29:57"
     },
     {
         "opinion_id": "18468235",
@@ -2576,6 +3112,32 @@
         "purchase_date": "2024-05-19 11:58:12"
     },
     {
+        "opinion_id": "18737324",
+        "author": "s...n",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Piękny",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-15 21:07:42",
+        "purchase_date": "2024-05-21 19:35:26"
+    },
+    {
+        "opinion_id": "18699168",
+        "author": "z...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Idealny",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-03 08:02:20",
+        "purchase_date": "2024-05-22 14:58:21"
+    },
+    {
         "opinion_id": "18680109",
         "author": "b...h",
         "recommendation": "Polecam",
@@ -2615,6 +3177,24 @@
         "purchase_date": "2024-01-14 05:14:06"
     },
     {
+        "opinion_id": "18742443",
+        "author": "g...h",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "🌹🌹🌹",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "ładny design",
+            "szybka wysyłka"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-18 08:33:08",
+        "purchase_date": "2024-03-10 22:54:02"
+    },
+    {
         "opinion_id": "18637006",
         "author": "e...5",
         "recommendation": "Polecam",
@@ -2641,6 +3221,37 @@
         "purchase_date": "2024-03-03 20:55:31"
     },
     {
+        "opinion_id": "18744983",
+        "author": "a...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Super",
+        "pros": [
+            "bezpieczny",
+            "bezprzewodowy",
+            "ładny design",
+            "szybka wysyłka"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-19 07:14:18",
+        "purchase_date": "2024-05-24 19:54:06"
+    },
+    {
+        "opinion_id": "18712368",
+        "author": "b...a",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Super",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-06 08:04:00",
+        "purchase_date": "2024-05-27 16:51:51"
+    },
+    {
         "opinion_id": "18519482",
         "author": "a...1",
         "recommendation": "Polecam",
@@ -2665,6 +3276,63 @@
         "useless": "0",
         "publish_date": "2023-11-09 23:46:36",
         "purchase_date": "2023-10-29 21:41:50"
+    },
+    {
+        "opinion_id": "18717142",
+        "author": "j...0",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "OK.",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-07 14:24:30",
+        "purchase_date": "2024-05-21 12:19:19"
+    },
+    {
+        "opinion_id": "17963658",
+        "author": "k...5",
+        "recommendation": "Nie polecam",
+        "rating": "0,5/5",
+        "content": "podziałało 7 dni i niestety orzechy włoskie przerosły możliwości tego urządzenia i pogięły te tasaczki XD",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2023-10-03 18:54:31",
+        "purchase_date": "2023-09-13 02:32:15"
+    },
+    {
+        "opinion_id": "18714787",
+        "author": "r...6",
+        "recommendation": "Polecam",
+        "rating": "5/5",
+        "content": "Oki",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-06 21:58:14",
+        "purchase_date": "2024-05-09 00:36:47"
+    },
+    {
+        "opinion_id": "18717292",
+        "author": "s...a",
+        "recommendation": "Polecam",
+        "rating": "4,5/5",
+        "content": "Oj",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-07 15:51:11",
+        "purchase_date": "2024-05-21 13:42:31"
     },
     {
         "opinion_id": "18264432",
@@ -2761,6 +3429,50 @@
         "purchase_date": null
     },
     {
+        "opinion_id": "18461395",
+        "author": "M...6",
+        "recommendation": "Nie polecam",
+        "rating": "2,5/5",
+        "content": "Dobry marketing i to wszystko. Sprzęt ledwo tnie banana. Czasem się przy nim zacina bo nie ma siły.",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-03-05 09:18:50",
+        "purchase_date": "2024-02-10 22:00:05"
+    },
+    {
+        "opinion_id": "18715756",
+        "author": "e...o",
+        "recommendation": "Nie polecam",
+        "rating": "1/5",
+        "content": "Bateria trzyma tylko na zrobienie dwóch koktajli i trzeba ładować, bardzo słaby produkt!!!!!",
+        "pros": [],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-07 08:40:25",
+        "purchase_date": "2024-05-12 11:36:00"
+    },
+    {
+        "opinion_id": "18709540",
+        "author": "n...5",
+        "recommendation": "Nie polecam",
+        "rating": "2,5/5",
+        "content": "Blenduje dobrze miękkie składniki, ale nie radzi sobie już z zamrożoną truskawką",
+        "pros": [
+            "bezpieczny",
+            "ładny design",
+            "szybka wysyłka",
+            "wiele użyć"
+        ],
+        "cons": [],
+        "useful": "0",
+        "useless": "0",
+        "publish_date": "2024-06-05 09:43:16",
+        "purchase_date": "2024-02-24 09:02:17"
+    },
+    {
         "opinion_id": "17903546",
         "author": "gracja28",
         "recommendation": "Polecam",
@@ -2777,32 +3489,6 @@
         "useless": "0",
         "publish_date": "2023-09-15 07:31:17",
         "purchase_date": null
-    },
-    {
-        "opinion_id": "17963658",
-        "author": "k...5",
-        "recommendation": "Nie polecam",
-        "rating": "0,5/5",
-        "content": "podziałało 7 dni i niestety orzechy włoskie przerosły możliwości tego urządzenia i pogięły te tasaczki XD",
-        "pros": [],
-        "cons": [],
-        "useful": "0",
-        "useless": "0",
-        "publish_date": "2023-10-03 18:54:31",
-        "purchase_date": "2023-09-13 02:32:15"
-    },
-    {
-        "opinion_id": "18461395",
-        "author": "M...6",
-        "recommendation": "Nie polecam",
-        "rating": "2,5/5",
-        "content": "Dobry marketing i to wszystko. Sprzęt ledwo tnie banana. Czasem się przy nim zacina bo nie ma siły.",
-        "pros": [],
-        "cons": [],
-        "useful": "0",
-        "useless": "0",
-        "publish_date": "2024-03-05 09:18:50",
-        "purchase_date": "2024-02-10 22:00:05"
     },
     {
         "opinion_id": "17908928",
